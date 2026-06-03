@@ -26,7 +26,7 @@ const __dirname = path.dirname(__filename);
 
 // Middleware
 app.use(cors({
-  origin: 'https://ecommerce-project.onrender.com'
+  origin: 'https://e-commerce-website-q011.onrender.com'
 }))
 
 app.use(express.json());
